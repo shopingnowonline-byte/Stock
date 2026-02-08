@@ -1,0 +1,5 @@
+{
+  "name": "Stock Tracker",
+  "description": "A sophisticated dashboard to monitor and analyze your Google Sheets data with Gemini AI insights, featuring watchlists and real-time visualization.",
+  "requestFramePermissions": []
+}
